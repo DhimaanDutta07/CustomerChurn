@@ -1,8 +1,7 @@
-fastapi
-uvicorn
-python-multipart
+Flask
+Flask-Cors
 pandas
 numpy
 scikit-learn
-xgboost
-lightgbm
+requests
+python-dotenv
